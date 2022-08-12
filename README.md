@@ -1,2 +1,2 @@
 # Pong-game
-Very simple JavaScript Canvas game
+Very simple HTML game
