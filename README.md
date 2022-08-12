@@ -5,3 +5,4 @@ Just click the link below and use 'w' and 's' to move the left paddle up and dow
 up and down arrow for the right paddle
 
 [simple-pong-game.netlify.app]
+<a href="doc:introduction" target="_blank">Introduction</a>
